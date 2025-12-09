@@ -1,0 +1,5 @@
+Another planned task is to explore basic optimization steps to make the YOLOv8 model more suitable for FPGA execution. These may include:
+Choosing an even lighter model variant if required
+Applying simple quantization during deployment (if needed)
+Adjusting input image size to reduce computation load
+These optimizations are intended only to support efficient execution on the PYNQ-Z2 board and are part of the planned continuation of the project.
