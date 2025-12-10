@@ -3,3 +3,6 @@ Quantized models are more suitable for embedded environments and enable higher t
 
 
 Changes have to be done
+
+9.12.2025
+10.12.2025
