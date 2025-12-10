@@ -1,2 +1,5 @@
 Quantization reduces the precision of model weights (e.g., from 32-bit floating-point to 8-bit integer), allowing the FPGA to execute operations faster with lower memory usage. 
 Quantized models are more suitable for embedded environments and enable higher throughput.
+
+
+Changes have to be done
