@@ -1,3 +1,6 @@
 Poorly Defined Selection Criteria
 Vague criteria such as “better design” or “good usability” make scoring ambiguous.
 Criteria should be specific, measurable, and directly linked to customer needs.
+
+#This is commit1
+
